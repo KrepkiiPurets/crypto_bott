@@ -1,0 +1,241 @@
+{
+  "422067985688166410_kucoin": {
+    "coins": [
+      "LAYER"
+    ],
+    "details": {
+      "LAYER": {
+        "amount": 287.68,
+        "usdt_value": 19.360864
+      }
+    },
+    "timestamp": "2026-06-24T23:00:59.365494"
+  },
+  "422067985688166410_gate": {
+    "coins": [
+      "FAST",
+      "NBLU",
+      "XPIN3L",
+      "JFI",
+      "3KDS",
+      "GMRT",
+      "COAI3L",
+      "CAW",
+      "FLOCK3S"
+    ],
+    "details": {
+      "FLOCK3S": {
+        "amount": 5941.71234,
+        "usdt_value": 15.106209453216001
+      },
+      "CAW": {
+        "amount": 1353864653.127,
+        "usdt_value": 8.108295407577604
+      },
+      "3KDS": {
+        "amount": 7366.626,
+        "usdt_value": 6.9997680252
+      },
+      "NBLU": {
+        "amount": 26851.2219,
+        "usdt_value": 4.03842377376
+      },
+      "COAI3L": {
+        "amount": 16.9897932,
+        "usdt_value": 2.6174475403920003
+      },
+      "XPIN3L": {
+        "amount": 14.82195321,
+        "usdt_value": 0.4196094953751
+      },
+      "GMRT": {
+        "amount": 0.485,
+        "usdt_value": 0.343283485
+      },
+      "JFI": {
+        "amount": 0.00527,
+        "usdt_value": 0.04377789000000001
+      },
+      "FAST": {
+        "amount": 0.557,
+        "usdt_value": 0.012997650700000002
+      }
+    },
+    "timestamp": "2026-06-07T01:37:34.900429"
+  },
+  "646621423_kucoin": {
+    "coins": [
+      "LAYER"
+    ],
+    "details": {
+      "LAYER": {
+        "amount": 287.68,
+        "usdt_value": 19.360864
+      }
+    },
+    "timestamp": "2026-06-24T23:00:15.341416"
+  },
+  "646621423_bingx": {
+    "coins": [
+      "JELLYJELLY",
+      "TMX",
+      "IAG",
+      "GODS",
+      "BULLA",
+      "POWER"
+    ],
+    "details": {
+      "POWER": {
+        "amount": 136.19367,
+        "usdt_value": 10.909112967
+      },
+      "BULLA": {
+        "amount": 753.67557,
+        "usdt_value": 7.9211302407
+      },
+      "TMX": {
+        "amount": 2.241756,
+        "usdt_value": 5.622324048
+      },
+      "IAG": {
+        "amount": 206.64315,
+        "usdt_value": 3.657583755
+      },
+      "JELLYJELLY": {
+        "amount": 0.688,
+        "usdt_value": 0.0358792
+      },
+      "GODS": {
+        "amount": 0.727,
+        "usdt_value": 0.02059591
+      }
+    },
+    "timestamp": "2026-06-07T01:34:00.368331"
+  },
+  "646621423_gate": {
+    "coins": [
+      "JFI",
+      "XPIN3L",
+      "FAST",
+      "NBLU",
+      "FLOCK3S",
+      "CAW",
+      "GMRT"
+    ],
+    "details": {
+      "FLOCK3S": {
+        "amount": 5941.71234,
+        "usdt_value": 17.2606743477
+      },
+      "CAW": {
+        "amount": 1353864653.127,
+        "usdt_value": 8.067679467983794
+      },
+      "NBLU": {
+        "amount": 26851.2219,
+        "usdt_value": 3.55241665737
+      },
+      "XPIN3L": {
+        "amount": 14.82195321,
+        "usdt_value": 0.5740542478233001
+      },
+      "GMRT": {
+        "amount": 0.485,
+        "usdt_value": 0.30978405
+      },
+      "JFI": {
+        "amount": 0.00527,
+        "usdt_value": 0.048900330000000006
+      },
+      "FAST": {
+        "amount": 0.557,
+        "usdt_value": 0.027753639000000004
+      }
+    },
+    "timestamp": "2026-06-24T23:00:31.955701"
+  },
+  "646621423_mexc": {
+    "coins": [
+      "EDOM",
+      "RMV",
+      "KASPY",
+      "CLS",
+      "XPM",
+      "PEIPEI",
+      "QBX",
+      "VFARM"
+    ],
+    "details": {
+      "VFARM": {
+        "amount": 392.15,
+        "usdt_value": 12.411547499999998
+      },
+      "CLS": {
+        "amount": 1398.47,
+        "usdt_value": 10.52628369
+      },
+      "RMV": {
+        "amount": 2335.7,
+        "usdt_value": 9.973439
+      },
+      "PEIPEI": {
+        "amount": 1396648044.0,
+        "usdt_value": 8.364525135516
+      },
+      "KASPY": {
+        "amount": 3234478.76,
+        "usdt_value": 6.520709180159999
+      },
+      "XPM": {
+        "amount": 957.08,
+        "usdt_value": 4.9959576
+      },
+      "QBX": {
+        "amount": 6303.46,
+        "usdt_value": 2.334801584
+      },
+      "EDOM": {
+        "amount": 4076.9,
+        "usdt_value": 0.6400733
+      }
+    },
+    "timestamp": "2026-06-24T23:00:46.115068"
+  },
+  "422067985688166410_bingx": {
+    "coins": [
+      "JELLYJELLY",
+      "TMX",
+      "IAG",
+      "GODS",
+      "BULLA",
+      "POWER"
+    ],
+    "details": {
+      "POWER": {
+        "amount": 136.19367,
+        "usdt_value": 10.909112967
+      },
+      "BULLA": {
+        "amount": 753.67557,
+        "usdt_value": 7.9211302407
+      },
+      "TMX": {
+        "amount": 2.241756,
+        "usdt_value": 5.622324048
+      },
+      "IAG": {
+        "amount": 206.64315,
+        "usdt_value": 3.657583755
+      },
+      "JELLYJELLY": {
+        "amount": 0.688,
+        "usdt_value": 0.035906719999999996
+      },
+      "GODS": {
+        "amount": 0.727,
+        "usdt_value": 0.02059591
+      }
+    },
+    "timestamp": "2026-06-07T01:34:52.784100"
+  }
+}
